@@ -25,3 +25,7 @@ flask run
 **Lec-4** : Used template inheritance to inherit properties and tags from other template files using Jinja templating and separating different components into separate files
 
 **Lec-5** : Learned about Database models and how to connect to sqlite database using Flask-SQLAlchemy
+
+**Lec-6** : Restructured the project for separation of models and routes increasing maintainbility and readability
+
+**Lec-7** : Added a user model and built relationship between User and Item models
