@@ -23,3 +23,5 @@ flask run
 **Lec-3** : Sending data to templates from within the python files for dynamic data rather than hardcoded values
 
 **Lec-4** : Used template inheritance to inherit properties and tags from other template files using Jinja templating and separating different components into separate files
+
+**Lec-5** : Learned about Database models and how to connect to sqlite database using Flask-SQLAlchemy
