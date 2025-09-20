@@ -29,3 +29,5 @@ flask run
 **Lec-6** : Restructured the project for separation of models and routes increasing maintainbility and readability
 
 **Lec-7** : Added a user model and built relationship between User and Item models
+
+**Lec-8** : Created a form using flask-forms and made a register page to take user registrations
