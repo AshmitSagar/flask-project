@@ -1,9 +1,19 @@
 # flask-project
+
 Fully functional flask driven webapp
 
+## Technologies Used
+
+- Python
+- Flask
+- HTML
+- CSS
+- BootStrap
+
 To run this code
+
 ``` python
-flask --app "market.py" run --debug
+flask run
 ```
 
 As was seen in the last lecture we hard coded the html within the python code itself.
