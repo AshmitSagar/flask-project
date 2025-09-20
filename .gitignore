@@ -62,7 +62,7 @@ db.sqlite3
 db.sqlite3-journal
 
 # Flask stuff:
-# commented out instance specifically so db could be tracked
+# commented out instance specifically so db could be updated
 # instance/
 .webassets-cache
 
