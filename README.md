@@ -16,6 +16,10 @@ To run this code
 flask run
 ```
 
-As was seen in the last lecture we hard coded the html within the python code itself.
-This approach is very diffcult to maintain and should be avoided.
-Rather we make templates which help us maintain separation between html/css and python code
+**Lec-1** : Basic Introduction
+
+**Lec-2** : Used styling and templating and used function render_template() to render html pages from html files rather than writing whole pages within the python file itself
+
+**Lec-3** : Sending data to templates from within the python files for dynamic data rather than hardcoded values
+
+**Lec-4** : Used template inheritance to inherit properties and tags from other template files using Jinja templating and separating different components into separate files
