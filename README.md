@@ -16,7 +16,13 @@ To try this code for yourself download zip or use git clone as follows:
 git clone https://github.com/AshmitSagar/flask-project.git
 ```
 
-Then go to the project directory and install all the python dependencies as follows:
+Then go to the project directory (flask-project here):
+
+``` shell
+cd flask-project
+```
+
+Install all the python dependencies as follows:
 
 ``` shell
 pip install -r requirements.txt
