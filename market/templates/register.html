@@ -4,8 +4,11 @@
 <!--  -->
 {% block content %}
 <body class="text-center">
+    <br>
+    <br>
     <div class="container">
         <form method="POST" class="form-register" style="color: white">
+            {{ form.hidden_tag() }}
             <img class="mb-4" src="https://www.images.cybrosys.com/css/assets/populor/flask.png", style="width: 500px; background-color: white;border-radius: 25px;" alt="">
             <h1 class="h3 mb-3 font-weight-normal">
                 Please Create your Account
@@ -24,7 +27,9 @@
             {{ form.submit(class="btn btn-lg btn-block btn-primary") }}
 
         </form>
-    </div>    
+    </div>
+    <br>
+    <br>
 </body>
 
 {% endblock %}

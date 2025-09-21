@@ -13,7 +13,7 @@ Fully functional flask driven webapp
 To run this code
 
 ``` python
-flask run
+python run.py
 ```
 
 **Lec-1** : Basic Introduction
@@ -31,3 +31,5 @@ flask run
 **Lec-7** : Added a user model and built relationship between User and Item models
 
 **Lec-8** : Created a form using flask-forms and made a register page to take user registrations
+
+**Lec-9** : Wrote logic to validate the data submitted through forms within python-flask
