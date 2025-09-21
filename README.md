@@ -1,6 +1,6 @@
 # flask-project
 
-Fully functional flask driven webapp
+Fully functional flask driven webapp with functional database and user authentication
 
 ## Technologies Used
 
@@ -10,11 +10,25 @@ Fully functional flask driven webapp
 - CSS
 - BootStrap
 
-To run this code
+To try this code for yourself download zip or use git clone as follows:
 
-``` python
+``` shell
+git clone https://github.com/AshmitSagar/flask-project.git
+```
+
+Then go to the project directory and install all the python dependencies as follows:
+
+``` shell
+pip install -r requirements.txt
+```
+
+Finally execute the project using:
+
+``` shell
 python run.py
 ```
+
+## Finally here is the list of what I learned in each lecture
 
 **Lec-1** : Basic Introduction
 
@@ -41,3 +55,5 @@ python run.py
 **Lec-13** : added proper logout button and functionality to the website. Stop users from accessing the market without logging in and take users straight to market after registering instead of showing login page
 
 **Lec-14 & 15** : Learned about modals (Display messages with options that gray out the whole screen and are drawn over all other elements). We added functionality to buy item button and added confirmation. Assigning the bought items to users. Learned about the flask request methods
+
+**Lec-15** : Implemeted the sell items logic.
