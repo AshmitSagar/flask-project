@@ -38,4 +38,6 @@ python run.py
 
 **Lec-11 & 12** : Created the whole login system with user authentication and improved the navbar to change according to whether the user is logged in or not
 
-**Lec-13** :
+**Lec-13** : added proper logout button and functionality to the website. Stop users from accessing the market without logging in and take users straight to market after registering instead of showing login page
+
+**Lec-14 & 15** : Learned about modals (Display messages with options that gray out the whole screen and are drawn over all other elements). We added functionality to buy item button and added confirmation. Assigning the bought items to users. Learned about the flask request methods
