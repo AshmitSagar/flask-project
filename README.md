@@ -35,3 +35,5 @@ python run.py
 **Lec-9** : Wrote logic to validate the data submitted through forms within python-flask
 
 **Lec-10** : Included flash messsages in the base.html to display messages and added advanced validation such as verifying unique username and email address
+
+**Lec-11 & 12** : Created the whole login system with user authentication and improved the navbar to change according to whether the user is logged in or not
